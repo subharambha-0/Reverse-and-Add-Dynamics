@@ -22,9 +22,9 @@ The investigation develops the following mathematical results:
 
 For a positive integer (n),
 
-[
-S(T(n))=2S(n)-9C(n),
-]
+$$
+R(n)\equiv (-1)^{L-1}n\pmod{11}
+$$
 
 where (S(n)) is the decimal digit sum and (C(n)) is the total number of carry-outs during the addition.
 
